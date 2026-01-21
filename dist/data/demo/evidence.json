@@ -1,0 +1,57 @@
+[
+    {
+        "id": "ev-001",
+        "title": "Community-based syndromic surveillance for influenza-like illness",
+        "authors": [
+            "Smith, J.",
+            "Doe, A."
+        ],
+        "journal": "Public Health Reports",
+        "year": 2023,
+        "pubDate": "2023-11-15",
+        "abstract": "This study evaluates the effectiveness of community-based surveillance systems during hospital surges...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12345678/",
+        "tags": [
+            "surveillance",
+            "influenza",
+            "capacity"
+        ],
+        "hazardFamily": "respiratory",
+        "populationFocus": [
+            "general"
+        ],
+        "geography": [
+            "US"
+        ],
+        "addedAt": "2026-01-20T08:00:00Z",
+        "source": "PubMed",
+        "whyCanaryCares": "Provides a validated framework for estimating true community prevalence during peak surge."
+    },
+    {
+        "id": "ev-002",
+        "title": "Climate-resilient health infrastructure in coastal regions",
+        "authors": [
+            "Lee, C.",
+            "Wilson, R."
+        ],
+        "year": 2024,
+        "pubDate": "2024-01-10",
+        "abstract": "An assessment of structural vulnerabilities in healthcare facilities facing rising sea levels and extreme storm surges.",
+        "url": "https://doi.org/10.1016/j.envres.2024.118123",
+        "tags": [
+            "infrastructure",
+            "flooding",
+            "resilience"
+        ],
+        "hazardFamily": "flooding",
+        "populationFocus": [
+            "coastal communities"
+        ],
+        "geography": [
+            "Global"
+        ],
+        "addedAt": "2026-01-21T08:00:00Z",
+        "source": "ScienceDirect",
+        "whyCanaryCares": "Directly informs facility-level vulnerability assessments for hurricane preparedness."
+    }
+]

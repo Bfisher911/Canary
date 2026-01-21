@@ -105,7 +105,7 @@ const Dashboard = () => {
                         <div className="absolute bottom-4 left-4 z-[1000] bg-card/80 backdrop-blur-sm p-3 border rounded-lg text-[10px] space-y-1">
                             <div className="flex items-center gap-2">
                                 <span className="w-2 h-2 rounded-full bg-red-500"></span>
-                                <span>High Risk (>70)</span>
+                                <span>High Risk (&gt;70)</span>
                             </div>
                             <div className="flex items-center gap-2">
                                 <span className="w-2 h-2 rounded-full bg-orange-500"></span>
