@@ -1,0 +1,33 @@
+[
+    {
+        "id": "risk-001",
+        "createdAt": "2026-01-21T10:00:00Z",
+        "geography": "Cook County, IL",
+        "hazardFamily": "respiratory",
+        "score": 68,
+        "confidence": 0.85,
+        "rationaleBullets": [
+            "Wastewater levels increasing for 3 consecutive weeks",
+            "Historical surge pattern matches late January peak",
+            "Lowered vaccine uptake among vulnerable populations"
+        ],
+        "supportingEvidenceIds": [
+            "ev-001"
+        ]
+    },
+    {
+        "id": "risk-002",
+        "createdAt": "2026-01-21T10:00:00Z",
+        "geography": "Miami-Dade, FL",
+        "hazardFamily": "flooding",
+        "score": 42,
+        "confidence": 0.7,
+        "rationaleBullets": [
+            "King tide predicted for early next week",
+            "Localized infrastructure maintenance in low-lying zones"
+        ],
+        "supportingEvidenceIds": [
+            "ev-002"
+        ]
+    }
+]
